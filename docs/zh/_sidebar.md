@@ -2,6 +2,9 @@
 - 入门
   - [安装](/zh/installation.md)
   - [快速开始](/zh/quick-start.md)
+  - [系统架构](/zh/system-architecture.md)
+  - [数据库操作与 CRUD](/zh/database-operations.md)
+  - [数据库迁移](/zh/database-migrations.md)
   - [页面内容和布局](/zh/content-layout.md)
 - 模型表格
   - [基本使用](/zh/model-grid.md)
